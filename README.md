@@ -24,7 +24,7 @@
 ---
 
 ### 📌 Featured Projects
-#### 📚 [Kutuki Learning Platform](https://kutuki.com)  
+#### 📚 [Kutuki Learning Platform](https://kutuki.in)  
 🚀 Built and scaled a **300k+ MAU platform**, leading **frontend + backend architecture**
 
 #### 📱 Flutter App (1M+ downloads)  
