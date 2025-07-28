@@ -1,46 +1,66 @@
-# Hi there, I'm Himanshu Raj 👋  
+<h1 align="center">🚀 Hi, I'm <span style="color:#00F5D4;">Himanshu Raj</span> 👋</h1>
+<h3 align="center">💻 Senior Software Engineer | Fullstack Developer | Tech Lead</h3>
 
-🚀 **Senior Software Engineer | Fullstack Developer | Tech Lead**  
-💡 Passionate about building scalable web & mobile applications.  
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=00F5D4&center=true&vCenter=true&width=500&lines=🚀+Building+Scalable+Web+%26+Mobile+Apps;💡+Tech+Lead+%7C+Fullstack+Developer;📱+Flutter+%7C+React+%7C+Node.js;☁️+AWS+%7C+Serverless+%7C+PostgreSQL">
+</p>
+
+---
 
 ### 🧑‍💻 About Me
-- 🔭 Currently working as **Tech Lead at Kutuki** – building a learning platform with 300k+ monthly users.  
-- 👨‍💻 7+ years of experience in **JavaScript, React, Node.js, Flutter, PostgreSQL, Kotlin, AWS**.  
-- 📱 Contributed to Android apps with **1M+ downloads** and **led a Flutter app from concept to release**.  
-- 🎓 B.Tech + M.Tech (Dual Degree) from **IIIT Gwalior**.  
-- 🌱 Exploring opportunities to **build impactful SaaS products & platforms**.  
+- 🔭 **Tech Lead @ Kutuki** – built a learning platform with **300k+ monthly users**  
+- 👨‍💻 7+ years of experience in **JavaScript, React, Node.js, Flutter, PostgreSQL, Kotlin, AWS**  
+- 📱 Contributed to Android apps with **1M+ downloads** & **launched a Flutter app from scratch**  
+- 🎓 Dual Degree (B.Tech + M.Tech) from **IIIT Gwalior**  
+- 🚀 Exploring opportunities to **build SaaS products that scale globally**  
 
 ---
 
 ### 🛠 Tech Stack
-**Frontend:** React, Next.js, Svelte, Tailwind CSS, Flutter  
-**Backend:** Node.js, FastAPI, AWS Lambda, PostgreSQL, Prisma  
-**Cloud & DevOps:** AWS, Serverless, Vercel, Docker  
-**Mobile:** Flutter, Kotlin  
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=react,nextjs,flutter,nodejs,fastapi,aws,postgres,prisma,tailwind,docker,vercel,kotlin,ts" />
+</p>
 
 ---
 
 ### 📌 Featured Projects
-#### 📚 [Kutuki Learning Platform](https://kutuki.com)
-Built and scaled a learning platform serving **300k+ monthly active users**, leading frontend and backend initiatives.
+#### 📚 [Kutuki Learning Platform](https://kutuki.com)  
+🚀 Built and scaled a **300k+ MAU platform**, leading **frontend + backend architecture**
 
-#### 📱 Flutter App (1M+ downloads)
-Led the development of an educational app **from concept to launch**, achieving **1M+ installs on Google Play Store**.
+#### 📱 Flutter App (1M+ downloads)  
+📲 Led the development of an **educational mobile app** from concept to release
 
-#### ⚡ Fullstack Dashboards
-Created **10+ internal dashboards and tools** using React, Node.js, and PostgreSQL for data analytics and operations.
+#### ⚡ Fullstack Dashboards  
+🛠 Developed **10+ internal tools** using **React + Node.js + PostgreSQL**
 
 ---
 
 ### 📊 GitHub Stats
-![Himanshu's GitHub stats](https://github-readme-stats.vercel.app/api?username=rajhimanshu83&show_icons=true&theme=tokyonight)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=rajhimanshu83&show_icons=true&theme=radical" height="160" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rajhimanshu83&layout=compact&theme=radical" height="160" />
+</p>
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rajhimanshu83&layout=compact&theme=tokyonight)
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=rajhimanshu83&theme=radical" />
+</p>
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=rajhimanshu83&theme=radical&no-frame=true&margin-w=10" />
+</p>
 
 ---
 
-### 🔗 Connect with Me
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/rajhimanshu83)  
-📧 **Email:** rajhimanshu83@gmail.com  
+### 🔗 Connect With Me
+<p align="center">
+  <a href="https://www.linkedin.com/in/himanshu-raj-44928b84">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="mailto:rajhimanshu83@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+</p>
 
-⭐️ From [rajhimanshu83](https://github.com/rajhimanshu83)
+---
+
+⭐ **From [rajhimanshu83](https://github.com/rajhimanshu83)**
